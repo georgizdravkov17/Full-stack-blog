@@ -1,0 +1,14 @@
+.posts-screen{
+    padding: 1rem;
+}
+
+.posts-container{
+    display: flex;
+    grid-gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.post{
+    border: 1px solid black;
+    padding: 1rem;
+}
